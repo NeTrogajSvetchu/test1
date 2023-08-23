@@ -4,6 +4,7 @@
 ![Image alt](https://github.com/NeTrogajSvetchu/test1/raw/main/img/3.png)
 ![Image alt](https://github.com/NeTrogajSvetchu/test1/raw/main/img/4.png)
 ![Image alt](https://github.com/NeTrogajSvetchu/test1/raw/main/img/5.png)
+
         Задание 2.
 1. Планирование
 Формирование требования клиента менеджером проекта. Выбор девопсом более эффективного средства разработки для данной задачи
